@@ -80,3 +80,19 @@ A full-stack web application built using Flask that allows users to submit feedb
 ---
 
 ## 📦 Project Structure
+
+Online-Feedback-Project/
+├── app.py
+├── database.db
+├── requirements.txt
+├── feedback.csv
+├── README.md
+├── static/
+│ └── style.css
+├── templates/
+│ ├── index.html
+│ ├── feedback.html
+│ ├── login.html
+│ └── dashboard.html
+
+
